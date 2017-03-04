@@ -82,7 +82,7 @@ Used to describe the behavior of an endpoint.
 
 ##### auth
 
-You can prevernt unauthorized applications and users from accessing any endpoint by using the auth field. The example below verify if the application is authenticated in order to perform the request:
+You can prevent unauthorized applications and users from accessing any endpoint by using the auth field. The example below verify if the application is authenticated in order to perform the request:
 
 ```application/json
 [
